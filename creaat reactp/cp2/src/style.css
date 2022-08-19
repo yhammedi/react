@@ -1,0 +1,13 @@
+.title{
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.red{
+    background-color: aqua;
+    border: black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
